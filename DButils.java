@@ -5,3 +5,7 @@ public class variables{
 	int c=a+b;
 	system.out.println("hello this is variables");
 	system.out.println("c value is : " c);
+
+
+
+#see this is the java variables
