@@ -1,1 +1,3 @@
 tested
+ps
+ps -ef
