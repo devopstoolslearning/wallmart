@@ -1,3 +1,1 @@
 tested
-ps
-ps -ef
