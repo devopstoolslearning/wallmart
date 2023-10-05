@@ -10,4 +10,4 @@ System.out.println("Factorial of "+ n+ " is: "+fact);
 }  
 } 
 
-//completed java code
+//completed java codde
