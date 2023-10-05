@@ -6,3 +6,5 @@ class Book:
     def display_info(self):
         print(f"Title: {self.title}")
         print(f"Author: {self.author}")
+
+//completed
