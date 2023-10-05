@@ -8,4 +8,6 @@ fact=fact*i;
 }  
 System.out.println("Factorial of "+ n+ " is: "+fact);  
 }  
-}  
+} 
+
+//completed java code
