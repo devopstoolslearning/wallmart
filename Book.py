@@ -8,4 +8,3 @@ class Book:
         print(f"Author: {self.author}")
 
 //completed fully
-vinod
