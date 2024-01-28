@@ -5,7 +5,7 @@ public class variables{
 	int c=a+b;
 	system.out.println("hello this is variables");
 	system.out.println("c value is : " c);
-//this is variables
+//ths is variables
 
 
 #see this is the java Variables in master branch
